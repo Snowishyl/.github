@@ -1,7 +1,3 @@
-## Hi there 👋
-
-Welcome to :snowflake:**Snowishyl**:high_brightness:, a place where artistry meets software development.
-
 ## About Us
 
 Organization dedicated to the pursuit of technical elegance and artistic expression in software development. Team of passionate developers and artists collaborate to create software solutions that are both functional and enchanting.
